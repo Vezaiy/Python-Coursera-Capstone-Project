@@ -1,2 +1,2 @@
-# Python-Project-pillow-tesseract-opencv
+# Python Coursera Capstone
 Assignments of coursera course.
